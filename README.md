@@ -23,3 +23,4 @@ Legacy Construction Corporation has secured over 132 projects (23%) of all proje
 2. Standardize:
    - Proper (capitalization, spelling)
    - Date/Currency Values
+3. Blanks & Null Values: checked for blank values and manipulate (if possible)
