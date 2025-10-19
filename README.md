@@ -21,5 +21,5 @@ Legacy Construction Corporation has secured over 132 projects (23%) of all proje
 ## PROCESS FLOW
 1. Duplicate: Checked for Duplicate Values/Data
 2. Standardize:
-   - Proper (capitalization)
+   - Proper (capitalization, spelling)
    - Date/Currency Values
