@@ -17,3 +17,9 @@ Over the span of 7 years, Infrastructure projects peacked to 9,827 projects acro
 **TOP CONTRACTORS:**
 Legacy Construction Corporation has secured over 132 projects (23%) of all projects across the country, which is a lot of projects considering that there are a lot of other contractors that are participating in bidding process.
 
+
+## PROCESS FLOW
+1. Duplicate: Checked for Duplicate Values/Data
+2. Standardize:
+   - Proper (capitalization)
+   - Date/Currency Values
