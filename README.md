@@ -6,7 +6,7 @@ Data Source: https://www.kaggle.com/datasets/bwandowando/dpwh-flood-control-proj
 
 ## Data Overview
 
-![alt text]([image.jpg](https://github.com/Voltaire-22/DPWH-Flood-Control-Projects/blob/main/Project%202/Dashboard.png?raw=true))
+![alt text][([image.jpg](https://github.com/Voltaire-22/DPWH-Flood-Control-Projects/blob/main/Project%202/Dashboard.png?raw=true))
 
 *DPWH Flood Control Project Overview (2018-2025)*
 
