@@ -6,6 +6,8 @@ Data Source: https://www.kaggle.com/datasets/bwandowando/dpwh-flood-control-proj
 
 ## Data Overview
 
+![alt text]([image.jpg](https://github.com/Voltaire-22/DPWH-Flood-Control-Projects/blob/main/Project%202/Dashboard.png?raw=true))
+
 *DPWH Flood Control Project Overview (2018-2025)*
 
 Over the span of 7 years, Infrastructure projects peaked to 9,827 projects across the country which a total of $545 Billion Pesos(PHP) contract cost with an average of $55 Million Pesos worth of contract.
