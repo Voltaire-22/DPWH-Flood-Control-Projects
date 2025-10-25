@@ -1,0 +1,16 @@
+Process Overview
+
+1. Duplicate: Checked for Duplicate Values/Data
+2. Standardize:
+   - Proper (capitalization, spelling)
+   - Date/Currency Values
+3. Blanks & Null Values: checked for blank values and manipulate (if possible)
+
+DOCUMENTATION:
+
+> Deleted project name as it is wont be valuable on visualization
+> Separated contractors 
+ - contractor 1: 9855 projects
+ - contractor 2: 1347 projects
+ - contractor 3: 3 projects
+> There are project value on Contract Cost & Approved Budget Column that are in the same project ID (i.e MYCA with Project ID P00320211VS & Clustered with Contract ID 24PD0027), making the value BLANK to avoid errors on aggregating Contract Cost & approved budget without affecting the number of projects
