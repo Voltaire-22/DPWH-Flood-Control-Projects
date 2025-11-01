@@ -4,6 +4,8 @@ This data piqued my interest to do a data analytics projects, with the major iss
 
 Data Source: https://www.kaggle.com/datasets/bwandowando/dpwh-flood-control-projects
 
+Tools used: Excel | SQL | Power BI
+
 ## Data Overview
 
 ![alt text](https://github.com/Voltaire-22/DPWH-Flood-Control-Projects/blob/main/Project%202/Dashboard.png?raw=true)
